@@ -46,7 +46,7 @@ on the deck container.
     });
 
     if (!window.location.hash) {
-      displayNotes(to);
+      displayNotes(0);
     }
 
   });

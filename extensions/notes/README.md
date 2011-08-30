@@ -1,7 +1,7 @@
 # Speaker notes extension for deck.js
 
-Just add element with class "note" to your slide elements and contents of it
-element will be shown only when requested.
+Just add element with class "note" inside your slide elements and contents of
+it element will be shown only when requested.
 
 ## Installation
 
